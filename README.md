@@ -59,6 +59,7 @@
 - **앱 프로그래밍 언어**: Java
 - **모델 학습 프레임워크**: TensorFlow, PyTorch
 - **서버 프레임워크**: Django
+- **DB**: Maria DB
 - **스트리밍 툴**: OBS
 - **추론 환경**: NVIDIA GPU
 - **데이터**: AI HUB 편의점 CCTV 데이터
